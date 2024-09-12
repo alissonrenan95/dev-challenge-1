@@ -1,0 +1,11 @@
+Se eles se cruzaram, ambos estão na mesma distância seja para Ribeirão Preto, seja para Barretos.
+Caso a pergunta se refira ao local em que eles estão se vai estar mais próximo de Ribeirão Preto ou Barretos, a resposta é:
+
+carro - Ribeirão Preto -> Barretos - 90km/h - 90km/60min - 1.5km/min - (125/1.5)min aproximadamente 83.333 min + 15 min = 98.333 min com pedágio(desconsiderando os pontos exatos do pedágio, o que afeta o resultado diretamente visto que no ponto de encontro ele poderia não ter passado ainda por algum dos pedágios, considerei como afetado a velocidade média do carro em todo o trajeto).
+ 
+caminhão - Barretos -> Ribeirão Preto - 80km/h - 80km/60min - 1.333km/min - (125/1.333)min aproximadamente 93.773 min de trajeto
+distância - Barretos <-> Ribeirão Preto - 125km/h
+
+Como considerei a velocidade média do carro por não saber pontos do pedágio, pelo cálculo o caminhão vai se deslocar mais rápido que o carro e ambos estarão mais próximo do destino do caminhão que é:
+
+Ribeirão Preto

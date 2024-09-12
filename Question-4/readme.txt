@@ -1,0 +1,1 @@
+o arquivo do modelo do banco foi construído em um programa chamado draw.io
